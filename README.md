@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science enthusiast with a deep passion for coding and a continuous thirst for acquiring knowledge in the realm of technology. Currently pursuing a degree in Computer Science, I dedicate my time not only to academic studies but also to creating exciting projects that align with my interests. Through this hands-on approach, I'm constantly expanding my skills and exploring new frontiers in the tech world.
+Third-year Computer Science student at Afeka College of Engineering with a passion for software development and learning new technologies. Experienced in developing mobile apps, Linux-based software, and web applications. Proficient in Java, C, C++, JavaScript, React, Node.js, and Android. Seeking opportunities to apply my skills and gain practical industry experience.
 
 
 ## 🌐 Socials:
