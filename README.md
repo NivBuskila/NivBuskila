@@ -1,6 +1,5 @@
 # 💫 About Me:
-Computer Science graduate who turns ideas into production ready AI and full stack products. Delivered 3.67s RAG response times, over 90 % accuracy, and built cloud scale microservice platforms. Comfortable with the entire development lifecycle: architecture, coding, CI/CD, observability and metrics. Skilled in Java, Python, JavaScript, and C with experience across web, mobile and cloud. 
-Seeking Full Stack Developer, Backend Developer and AI Engineer positions.
+Solutions Engineer @ Base44 (by Wix). Shipping games, AI tools and too many side projects. TypeScript · React · Node · Python
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nivbuskila/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nivbuskila@icloud.com) 
